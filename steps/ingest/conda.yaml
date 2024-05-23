@@ -1,0 +1,9 @@
+name: ingest_from_csv_conda_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip:
+    # - azure_storage==0.37.0
+    - mldesigner==0.1.0b13
+    - pandas==1.4.4

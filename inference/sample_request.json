@@ -1,0 +1,12 @@
+{
+    "dataframe_split": {
+      "columns": [
+        "occWeight_R1L_IHAL_d_kg_G", "occGender_R1L_IHAL_e_G", "tOutsideTemp_IVAL_d_C_G", "tCabinTemp_IVAL_d_C_G"
+      ],
+      "data": [
+        [
+            75, 1, 30, 25
+        ]
+      ]
+    }
+  }
